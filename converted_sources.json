@@ -1,0 +1,156 @@
+{
+    "categories": [
+        {
+            "category": "News",
+            "sources": [
+                {
+                    "name": "Aaj Tak",
+                    "url": "https://www.aajtak.in/"
+                },
+                {
+                    "name": "ABP News",
+                    "url": "https://www.abplive.com/"
+                },
+                {
+                    "name": "Amar Ujala",
+                    "url": "https://www.amarujala.com/"
+                },
+                {
+                    "name": "Asia Net News",
+                    "url": "https://hindi.asianetnews.com/"
+                },
+                {
+                    "name": "BBC News",
+                    "url": "https://www.bbc.com/hindi"
+                },
+                {
+                    "name": "Dainik Bhaskar",
+                    "url": "https://www.bhaskar.com/"
+                },
+                {
+                    "name": "Dainik Navajyoti",
+                    "url": "https://dainiknavajyoti.com/"
+                },
+                {
+                    "name": "Dainik Tribune",
+                    "url": "https://www.dainiktribuneonline.com/"
+                },
+                {
+                    "name": "Deutsche Welle",
+                    "url": "https://www.dw.com/hi"
+                },
+                {
+                    "name": "Hindustan",
+                    "url": "https://www.livehindustan.com/"
+                },
+                {
+                    "name": "Jagran",
+                    "url": "https://www.jagran.com/"
+                },
+                {
+                    "name": "Jansatta",
+                    "url": "https://www.jansatta.com/"
+                },
+                {
+                    "name": "Khas Khabar",
+                    "url": "https://www.khaskhabar.com/"
+                },
+                {
+                    "name": "Nav Bharat Times",
+                    "url": "https://navbharattimes.indiatimes.com/"
+                },
+                {
+                    "name": "NDTV",
+                    "url": "https://ndtv.in/"
+                },
+                {
+                    "name": "News 18",
+                    "url": "https://hindi.news18.com/"
+                },
+                {
+                    "name": "Outlook Hindi",
+                    "url": "https://www.outlookhindi.com/"
+                },
+                {
+                    "name": "Patrika News",
+                    "url": "https://www.patrika.com/"
+                },
+                {
+                    "name": "Prabhat Khabar",
+                    "url": "https://www.prabhatkhabar.com/"
+                },
+                {
+                    "name": "Pratahkal",
+                    "url": "https://www.pratahkal.com/"
+                },
+                {
+                    "name": "Punjab Kesari",
+                    "url": "https://www.punjabkesari.in/"
+                },
+                {
+                    "name": "Samay Live",
+                    "url": "http://m.samaylive.com/"
+                },
+                {
+                    "name": "The Wire",
+                    "url": "https://thewire.in/"
+                },
+                {
+                    "name": "TV9",
+                    "url": "https://www.tv9.com/"
+                },
+                {
+                    "name": "United News of India",
+                    "url": "http://www.univarta.com/"
+                },
+                {
+                    "name": "Zee News",
+                    "url": "https://zeenews.india.com/hindi"
+                }
+            ]
+        },
+        {
+            "category": "Government Publications",
+            "sources": [
+                {
+                    "name": "ISRO",
+                    "url": "https://www.isro.gov.in/"
+                },
+                {
+                    "name": "PIB",
+                    "url": "https://pib.gov.in/"
+                }
+            ]
+        },
+        {
+            "category": "Educational Materials",
+            "sources": [
+                {
+                    "name": "NPTEL Books",
+                    "url": "https://sites.google.com/nptel.iitm.ac.in/books/hindi"
+                },
+                {
+                    "name": "NPTEL Lecture Transcript",
+                    "url": "https://archive.nptel.ac.in/course.html"
+                }
+            ]
+        },
+        {
+            "category": "Public Dataset",
+            "sources": [
+                {
+                    "name": "IndicNLP",
+                    "citation": "Kakwani et al., 2020c"
+                },
+                {
+                    "name": "RootCorpus",
+                    "citation": "Laurenccon et al., 2023"
+                },
+                {
+                    "name": "CulturaX",
+                    "citation": ""
+                }
+            ]
+        }
+    ]
+}
